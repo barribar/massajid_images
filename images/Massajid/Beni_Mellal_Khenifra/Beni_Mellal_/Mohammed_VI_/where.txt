@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/Xe3sjizcd48vZC2TA
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d707.933287189695!2d-6.334491147332287!3d32.31888986733152!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda3869088baaaab%3A0xf210b7b6cf3408e!2smosqu%C3%A9e%20Mohammed%20VI!5e1!3m2!1sfr!2sma!4v1719841960291!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
