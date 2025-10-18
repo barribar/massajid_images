@@ -1,0 +1,4 @@
+https://maps.app.goo.gl/8rzzBZ2NAPQhrqEn8
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1398.1268285100602!2d-5.2231428648315195!3d33.436467249995395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda1db4be7640a41%3A0x801bc8ba7e229947!2sMosqu%C3%A9e%20Nour!5e1!3m2!1sfr!2sma!4v1718274258638!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
