@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/HmcRduJ71JeatruXA
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1388.7449101681934!2d-4.998808028450011!3d34.014343263877386!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd9f8b73353e01cf%3A0xfca087c5a677eee9!2sMosqu%C3%A9e%20Idris%20Premier!5e1!3m2!1sfr!2sma!4v1717667994040!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
