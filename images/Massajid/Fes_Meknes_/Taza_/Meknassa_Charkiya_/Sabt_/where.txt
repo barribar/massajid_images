@@ -1,0 +1,7 @@
+
+Msjd Quiyadate_Meknassa
+http://wikimapia.org/#lang=en&lat=34.347099&lon=-3.922387&z=18&m=b
+
+https://maps.app.goo.gl/RUwU9mfXPtis5uXt7
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2766.5559207129922!2d-3.9255034918182377!3d34.34712610146675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd9e1b004efafe0f%3A0x6de0c571ea1f1816!2z2YXYs9is2K8g2KfZhNiz2KjYqg!5e1!3m2!1sfr!2sma!4v1718383796255!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
