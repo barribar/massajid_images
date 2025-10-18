@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/DUUmcW1o914GHnJG8
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d698.3588194760694!2d-5.116976569450378!3d33.523826403560854!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda1d76f5c79c585%3A0x39d7abdbdf162bad!2sMosqu%C3%A9e%20Niger%20%C3%A0%20Ifrane!5e1!3m2!1sfr!2sma!4v1717667354072!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
