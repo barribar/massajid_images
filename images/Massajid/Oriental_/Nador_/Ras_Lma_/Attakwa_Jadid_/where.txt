@@ -1,0 +1,6 @@
+Msjd CapDeLEau
+http://wikimapia.org/#lang=en&lat=35.132273&lon=-2.416863&z=18&m=b
+
+https://maps.app.goo.gl/WsxVhR9gv8mFgL3E6
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d685.1002509484845!2d-2.419254830460617!3d35.13194549509276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd782bb30f02a291%3A0x2f9edac503a2831b!2zVGFtZXpndWlkYSAnbiBBbCBUYWt3YSB8IE1vc3F1w6llIEFsLXRha3dhIHwg2YXYs9is2K8!5e1!3m2!1sfr!2sma!4v1713873146185!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
