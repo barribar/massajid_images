@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/DYFssY3TwdBRRbjs9
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d356.633602642816!2d-8.054805468764151!3d31.629950974163926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdafe948d7cc4099%3A0xf9cd726dd42b099e!2sMosqu%C3%A9e%20Ali%20Ben%20Abi%20Talib!5e1!3m2!1sfr!2sma!4v1744573908272!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
