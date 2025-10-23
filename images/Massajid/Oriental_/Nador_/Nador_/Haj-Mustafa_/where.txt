@@ -1,0 +1,7 @@
+Msjd Lalla_Amina
+
+http://wikimapia.org/#lang=en&lat=35.176544&lon=-2.925518&z=18&m=b
+
+https://maps.app.goo.gl/wkuiJDubApvh8uTR9
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d87652.53563332059!2d-2.966179407714844!3d35.16934542015647!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd77a7f701161b9d%3A0x41bee1c8532ff7ec!2sMosqu%C3%A9e%20Haj%20Mustafa!5e1!3m2!1sfr!2sma!4v1718449353495!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
