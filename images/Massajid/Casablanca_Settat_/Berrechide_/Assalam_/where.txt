@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/RxJ6AwDWD99bKpwC8
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.7772568978903!2d-7.854846!3d33.4202154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda883014d67b949%3A0x25b5221d03f36324!2sMosqu%C3%A9e%20Al-Salam!5e1!3m2!1sfr!2sma!4v1714989542959!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
