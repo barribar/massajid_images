@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/XVe1hxgxujUjANNh6
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2795.104352224096!2d-7.9596444!3d33.4721157!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda8861fafad7fb9%3A0x6eefeae3c4e6224b!2sBen%20Saedoun%20Mosque!5e1!3m2!1sen!2sma!4v1720979791692!5m2!1sen!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
