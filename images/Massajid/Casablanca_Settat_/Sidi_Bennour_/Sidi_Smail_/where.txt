@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/Ge7uf1Pg6uY3zb1p8
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d351.97148588598395!2d-8.512544069594394!3d32.825837781490904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda92af1797a66fb%3A0xa210927ec875cae7!2sGrande%20Mosqu%C3%A9e!5e1!3m2!1sfr!2sma!4v1715078275879!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
