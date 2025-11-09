@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/DyYJts2yzyCaQWeT7
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d349.14997795182467!2d-7.727821904734328!3d33.5311155!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda62b164db91389%3A0xe9b871985c3d7559!2sMosqu%C3%A9e%20Arrahma!5e1!3m2!1sfr!2sma!4v1716830119733!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
