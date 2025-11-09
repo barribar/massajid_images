@@ -1,0 +1,4 @@
+https://maps.app.goo.gl/teH1ffPGx6817SFy7
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2802.682832897791!2d-8.538345725098605!3d33.23642770176246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda91c298b23491b%3A0x7afa97af4a6c61a2!2sMosqu%C3%A9e%20Ibrahim%20Alkhalil!5e1!3m2!1sfr!2sma!4v1760376774714!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
