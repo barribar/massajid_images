@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/1YuzZQPdaGwcsVUT6
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5586.167987829915!2d-7.65086083344478!3d33.534700794409055!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda62d1ede2baecb%3A0x2db1d234831d5d79!2sMosqu%C3%A9e%20Alkadi%20Aayad!5e1!3m2!1sfr!2sma!4v1720261152263!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
