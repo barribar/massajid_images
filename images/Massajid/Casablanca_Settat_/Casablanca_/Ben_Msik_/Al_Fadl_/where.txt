@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/cnKNvXLt5hhrkWz59
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d698.1518538321308!2d-7.56925483464904!3d33.54944884411347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda632d8bce20865%3A0x1f413adf62c1fe74!2sMosque%20Al%20Fadl!5e1!3m2!1sfr!2sma!4v1720260793718!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
