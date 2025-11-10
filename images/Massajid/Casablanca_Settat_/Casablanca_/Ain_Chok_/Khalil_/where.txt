@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/nMUGEqu8z4Qi85D98
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2792.785111120377!2d-7.625029842605591!3d33.543950595987624!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda62d43686ca62f%3A0xaef5dc0ff7796047!2sMosqu%C3%A9e%20Ibrahim%20Al%20Khalil-Ain%20chock!5e1!3m2!1sfr!2sma!4v1719050915222!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
