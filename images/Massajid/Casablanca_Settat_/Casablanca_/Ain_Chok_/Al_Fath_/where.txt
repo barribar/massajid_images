@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/TDutu3Bqb4QSmMkc7
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d349.07255984344437!2d-7.5900440695604345!3d33.55028224406998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda633c428ee24ad%3A0x5c697a333ee93bc7!2sMasjid%20Al%20Fath%2C%20A%C3%AFn%20Chok%2C%20Casablanca!5e1!3m2!1sfr!2sma!4v1714212300749!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
