@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/io8HH95ExFpPES4k6
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d348.901310830967!2d-7.59785334125865!3d33.59264481462686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cd6f1e3f86c5%3A0x17e2ca161bc9c193!2sMosqu%C3%A9e%20Al%20Yassir!5e1!3m2!1sfr!2sma!4v1715856062045!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
