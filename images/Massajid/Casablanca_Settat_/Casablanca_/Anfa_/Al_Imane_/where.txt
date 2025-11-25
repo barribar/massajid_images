@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/ZaT524K3yE1wukTS7
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1395.9816917605579!2d-7.629656662677389!3d33.56936975780025!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7d2b6d3d90791%3A0x6cfcddd1d44fd3c9!2sMosque%20Al%20Imane!5e1!3m2!1sen!2sma!4v1720196801285!5m2!1sen!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
