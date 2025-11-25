@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/i2X3QQUQqfcyidLL9
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1396.0430923812883!2d-7.583487461496278!3d33.565572128298435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cd3322ed0fed%3A0xeb94d1cf35ec50fd!2sMosqu%C3%A9e%20Omar%20bnou%20El%20khattab!5e1!3m2!1sfr!2sma!4v1715006735992!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
