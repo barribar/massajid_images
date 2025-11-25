@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/zH7M9zD5yQpkLqud9
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2790.75654341499!2d-7.634519325177661!3d33.60667114112786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7d2607994d58f%3A0x67a1d618e7b0d072!2sMosqu%C3%A9e%20Hassan-II!5e1!3m2!1sfr!2sma!4v1716314705782!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
