@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/DrqCVQ69SfpNzEd56
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d697.7475760846696!2d-7.62147703464667!3d33.59944884150495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7d285c1e0b905%3A0x34cd54fb3390b7f2!2sMosqu%C3%A9e%20Jamaa%20Chleuh!5e1!3m2!1sfr!2sma!4v1720260432440!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
