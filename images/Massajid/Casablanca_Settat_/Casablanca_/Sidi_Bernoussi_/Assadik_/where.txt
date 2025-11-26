@@ -1,0 +1,3 @@
+https://maps.app.goo.gl/cBz2y5r7uAvvgpHR7
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d348.8007279679775!2d-7.4972662695572705!3d33.617504440562165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cba6ce0df0d1%3A0xef1b6ddce787d6d0!2sMosqu%C3%A9e%20Abi%20Bakr%20Assidiq!5e1!3m2!1sfr!2sma!4v1715594153412!5m2!1sfr!2sma" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
